@@ -5,6 +5,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkSync", "BulkSync\BulkSy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkSyncNUnit", "BulkSyncNUnit\BulkSyncNUnit.csproj", "{70582005-BAE9-4155-A857-52EBB0DBD3A9}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{827B5E02-1348-432D-A2B1-F7A2D5565E51}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		README.MD = README.MD
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -19,6 +25,8 @@ Global
 		{EC3EF755-BE3D-4939-B800-9579893CC9F0}.Debug|x86.Build.0 = Debug|x86
 		{EC3EF755-BE3D-4939-B800-9579893CC9F0}.Release|x86.ActiveCfg = Release|x86
 		{EC3EF755-BE3D-4939-B800-9579893CC9F0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = BulkSyncNUnit\BulkSyncNUnit.csproj
