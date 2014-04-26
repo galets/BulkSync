@@ -1,28 +1,15 @@
 ﻿<Properties GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BulkSync/CommandLineOptions.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="BulkSyncNUnit/Test.cs" Line="98" Column="1" />
-      <File FileName="BulkSync/Delta.cs" Line="100" Column="1" />
-      <File FileName="BulkSync/Signature.cs" Line="37" Column="1" />
-      <File FileName="BulkSync/ReverseDelta.cs" Line="51" Column="1" />
+      <File FileName="BulkSyncNUnit/Test.cs" Line="1" Column="1" />
+      <File FileName="BulkSync/Delta.cs" Line="1" Column="1" />
+      <File FileName="BulkSync/Signature.cs" Line="1" Column="1" />
+      <File FileName="BulkSync/ReverseDelta.cs" Line="1" Column="1" />
       <File FileName="BulkSync/Program.cs" Line="1" Column="1" />
       <File FileName="BulkSync/Patch.cs" Line="1" Column="1" />
       <File FileName="BulkSync/CommandLineOptions.cs" Line="1" Column="1" />
     </Files>
-    <Pads>
-      <Pad Id="MonoDevelop.NUnit.TestPad">
-        <State expanded="True">
-          <Node name="BulkSyncNUnit" expanded="True">
-            <Node name="BulkSyncNUnit" expanded="True">
-              <Node name="Test" expanded="True">
-                <Node name="TestCaseSimple" selected="True" />
-              </Node>
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
