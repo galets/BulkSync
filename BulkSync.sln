@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkSync", "BulkSync\BulkSync.csproj", "{EC3EF755-BE3D-4939-B800-9579893CC9F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkSyncNUnit", "BulkSyncNUnit\BulkSyncNUnit.csproj", "{70582005-BAE9-4155-A857-52EBB0DBD3A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70582005-BAE9-4155-A857-52EBB0DBD3A9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{70582005-BAE9-4155-A857-52EBB0DBD3A9}.Debug|x86.Build.0 = Debug|Any CPU
+		{70582005-BAE9-4155-A857-52EBB0DBD3A9}.Release|x86.ActiveCfg = Release|Any CPU
+		{70582005-BAE9-4155-A857-52EBB0DBD3A9}.Release|x86.Build.0 = Release|Any CPU
+		{EC3EF755-BE3D-4939-B800-9579893CC9F0}.Debug|x86.ActiveCfg = Debug|x86
+		{EC3EF755-BE3D-4939-B800-9579893CC9F0}.Debug|x86.Build.0 = Debug|x86
+		{EC3EF755-BE3D-4939-B800-9579893CC9F0}.Release|x86.ActiveCfg = Release|x86
+		{EC3EF755-BE3D-4939-B800-9579893CC9F0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = BulkSyncNUnit\BulkSyncNUnit.csproj
+	EndGlobalSection
+EndGlobal
